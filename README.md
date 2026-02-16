@@ -105,10 +105,16 @@ Run:
 streamlit run app/bond_portfolio.py
 ```
 
+<img width="1780" height="852" alt="portfolioAnalytics" src="https://github.com/user-attachments/assets/8965b474-929c-4a3c-bc12-da9e52545ab5" />
+
+
 ### 2️⃣ LDI Hedge Optimizer
 
 Run:
 
 ```bash
 streamlit run app/hedge_bond.py
+```
+
+<img width="946" height="891" alt="hedgeBond" src="https://github.com/user-attachments/assets/14c0a852-cdc7-43e2-9176-b9f01dbd94c6" />
 
